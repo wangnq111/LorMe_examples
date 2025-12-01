@@ -1,7 +1,7 @@
 # Script for Sample demonstration of LorMe package
 **Article Title: LorMe: a streamlined and interoperable R framework for end-to-end microbiome analysis**
 
-**Link: https://www.biorxiv.org/content/10.1101/2025.11.26.690896v1**
+**doi: https://doi.org/10.1101/2025.11.26.690896**
 
 
 Based R version (4.4.1)
